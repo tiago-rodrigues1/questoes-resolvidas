@@ -8,3 +8,4 @@
  * [Code Forces](https://codeforces.com/)
  * [SPOJ](https://www.spoj.com/)
  * [CodeWars](https://www.codewars.com/)
+ * [Site da OBI(Olimpíada Brasileira de informática)](https://olimpiada.ic.unicamp.br/pratique/)
