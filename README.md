@@ -1,4 +1,4 @@
-# desafios-resolvidos
+# questoes-resolvidas
  Repositório dedicado a hospedagem de códigos de questões de programação competitiva, em especial a OBI.
 
  ### Alguns Links de sites
